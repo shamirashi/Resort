@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Dancing+Script&family=Handjet:wght@100;200;300;400;500;600&family=Kanit:ital,wght@0,200;1,200&family=REM:ital,wght@0,200;0,300;0,400;1,300&family=Zeyada&display=swap');
+/* font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Handjet', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'REM', sans-serif;
+font-family: 'Zeyada', cursive;
+*/
+div.bg{
+    background-image: url("../images/pic1.jpg");
+    height:500px;
+}
+h1.h{
+    text-align: center;
+    margin-top:10%;font-family: 'REM', sans-serif;
+}
+h1.h1{
+    text-align: center;font-family: 'REM', sans-serif;
+}
+h3.h3{
+    font-family: 'REM', sans-serif;
+    margin-left: 50%;color: #09295c;
+}
+p.p1,div.new{
+    font-style: oblique;text-align: justify;
+}
+img.im1{
+    width:100%;
+}
+div.bg1{
+    background-image: url("../images/pic2.jpg");
+    background-size: cover;width:100%; 
+}
+div.row.new{
+    margin-top: 19%;
+}
+p.p3{
+    border-style:solid;padding: 5px;width:14%;
+    border-width: 0.7px;
+}
+div.ne{
+    text-align: center;
+    font-style:oblique;
+}
+img.im2{
+    width: 100%;height: 100%;
+}
+.p5{
+    text-align: center;font-style: italic;
+}
+.button{
+    margin-top: 40px; text-align: center;
+    margin:40px;
+}
+div.bg2{
+    background-image: url("../images/pic9.jpg");
+    background-size: cover;width:100%; 
+}
+div.row.new{
+    margin-top: 19%;
+}
+p.p7{
+    border-style:solid;padding: 5px;width:14%;
+    border-width: 0.7px;
+}
